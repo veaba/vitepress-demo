@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev": "node vitepress/bin/vitepress.js dev docs",
+    "start": "node ./nodu_modules/vitepress/bin/vitepress.js"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.0-beta.20",
+    "rollup": "^2.21.0"
+  }
+}
