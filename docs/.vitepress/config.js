@@ -1,5 +1,5 @@
 /**
- * @desc VuePress Config.js
+ * @desc Vitepress Config.js
  * */
 module.exports = {
 	title: 'Vue.js 3 docs',
@@ -46,8 +46,7 @@ module.exports = {
 		}],
 	],
 	extraWatchFiles: [
-		// '.vuepress/nav/en.js',
-		'.vuepress/nav/zh.js',
+		'.vitepress/nav/zh.js',
 	]
 };
 
